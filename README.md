@@ -12,7 +12,7 @@
 🌱 Toujours en train d'apprendre de nouvelles technologies  
 💡 J'aime résoudre des problèmes complexes avec du code élégant  
 🤝 Ouvert à la collaboration sur des projets innovants  
-📍 Basé en France
+📍 Basé au Sénégal
 
 </div>
 
@@ -87,10 +87,9 @@
 
 ### 📫 Comment me contacter
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:votre.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/votre_handle)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://votre-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mouhamed-lamine-ngom-090861247/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mouhamed.ngom50@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://vitrine-3kgu.vercel.app/)
 
 </div>
 
@@ -101,12 +100,10 @@
 <div align="center">
 
 > 💡 *"Le code est comme l'humour. Quand vous devez l'expliquer, c'est mauvais."* - Cory House
-
-🎵 **Playlist de code:** Lo-fi Hip Hop & Jazz  
-☕ **Carburant:** Café noir, beaucoup de café  
+ 
 🌙 **Productif:** Surtout la nuit  
-🎮 **Détente:** Jeux vidéo & lecture technique  
-🏃‍♂️ **Sport:** Course à pied pour débogger mentalement
+🎬 **Détente:** Cinéma et regarder du football  
+⚽ **Sport:** Football - ma passion !
 
 </div>
 
