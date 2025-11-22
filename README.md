@@ -74,25 +74,6 @@
 
 ---
 
-## 🌟 Projets en vedette
-
-<div align="center">
-
-### 🚀 [Nom du Projet 1](https://github.com/MHDLamine/projet1)
-**Description:** Application web moderne développée avec React et Node.js  
-**Technologies:** React, Node.js, MongoDB, Express
-
-### 💻 [Nom du Projet 2](https://github.com/MHDLamine/projet2)
-**Description:** API REST robuste avec authentification JWT  
-**Technologies:** Python, Django, PostgreSQL, Docker
-
-### 🎨 [Nom du Projet 3](https://github.com/MHDLamine/projet3)
-**Description:** Interface utilisateur responsive et interactive  
-**Technologies:** TypeScript, React, Tailwind CSS, Framer Motion
-
-</div>
-
----
 
 ## 💬 Parlons ensemble !
 
